@@ -3,3 +3,6 @@ a
 c
 git
 eclipsex
+eclipsenew
+eclipsex
+gitnew
