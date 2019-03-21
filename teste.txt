@@ -3,6 +3,9 @@ a
 c
 git
 eclipsex
+<<<<<<< HEAD
 eclipsenew
 eclipsex
+=======
+>>>>>>> branch 'master' of https://github.com/hkanata/teste.git
 gitnew
