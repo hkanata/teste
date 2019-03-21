@@ -1,5 +1,3 @@
 git
 eclipse
 eclipse1
-eclipse
-git1
